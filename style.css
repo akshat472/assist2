@@ -1,0 +1,173 @@
+
+.strength{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.others{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.touchs{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+body{
+
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color:rgb(43, 190, 248);
+}
+
+.topnav a {
+  color: #f2f2f2;
+  text-align: left;
+  padding: 20px 16px ;
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 0;
+}
+
+.topnav a:hover {
+  background-color: white;
+  color: rgb(137, 224, 250);
+}
+
+.topnav a.active {
+  background-color:rgb(113, 213, 238);
+  color: white;
+}
+
+ body{
+ background-image: url("images/cloud.jpg");
+   background-repeat: no-repeat;
+   background-size: 1600px 450px;
+   color: white;
+   background-color: rgb(208, 240, 235);
+
+ }
+ /*
+ .change{
+   margin-top: 50px;
+   margin-left: 50px;
+   float: left;
+   width: 9%;
+ } */
+
+ .mypic{
+   float: left;
+   margin-left: 300px;
+ }
+ .top{
+  margin-top: 70px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  color: rgb(24, 88, 117);
+}
+
+ .abouthead{
+   margin-top: 300px;
+   color: rgb(42, 163, 103);
+   font-size: 40px;
+   font-weight: bold;
+   font-family: fantasy;
+ }
+
+/* For all icons*/
+ .graduate, .pic, .code, .ball, .hello{
+   width: 20%;
+   float: center;
+ }
+
+ /* STYLING OF BODY OF EVERY HEAD */
+ .about, .intro, .strength, .yesskill, .skill, .sports, .str, .msg{
+  color: black;
+  text-align: center;
+  font-style: normal;
+  font-family: endColorstr;
+  letter-spacing: normal;
+  font-size: 25px;
+
+ }
+
+/* STYLING OF ALL HEADS*/
+ h1{
+   font-weight: bold;
+   color: yellow;
+   margin-top: 100px;
+   font-size: 40px;
+   font-family: fantasy;
+ }
+
+ /* COLORS OF ALL HEAD */
+.skillhead{
+  color: hotpink;
+  font-size: 40px;
+}
+.strengthhead{
+  color: orange;
+}
+.otherhead{
+  color: blue;
+}
+
+.touchhead{
+  color: brown;
+}
+
+.btn{
+  background-color: #2697f3;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  transition-duration: 0.4s;
+}
+.btn:hover{
+  background-color: rgb(89, 186, 241);
+  color: white;
+}
+a:hover{
+  color: darkblue;
+}
+a{
+  margin: 20px ;
+  color: white;
+  font-family: 'Montserrat' , sans-serif;
+  font-size:  20px;
+  text-decoration:none;
+}
+/*
+.bottom{
+  margin-top: 200px;
+  padding-top: 5px;
+  background-color: rgb(43, 190, 248);
+  padding-bottom: 5px;
+  color: white;
+  width: 100%;
+  font-style: normal;
+  font-family: fantasy;
+    max-width: 100%;
+}
+*/
+
+.bottomone{
+  padding-bottom: 2px;
+  color: white;
+  background-color: rgb(43, 190, 248);
+}
+
+
+hr{
+  margin: 100px auto;
+  border: dotted /*#dae1e7*/lightblue 10px;
+  border-bottom: 0;
+  width: 4%;
